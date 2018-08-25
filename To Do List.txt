@@ -1,0 +1,13 @@
+To Do List
+
+Setting up dev environment  (**back-end)
+App wireframe (**back-end)
+Data analytics- prediction of how much you contribute compared to others, leader board (**statistics)
+Documentation outline- create README (**all)
+Permissions (**back-end)
+Aesthetics (**front-end)
+Intregration with linnia (**back-end)
+Data capture (fake data) (**statistics/demoing)
+Data storage (**back-end)
+Storage on blockchain (**back-end)
+API Interface (**front-end)
