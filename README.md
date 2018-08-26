@@ -19,13 +19,21 @@ Beehive Labs is an application which uses blockchain technology to allow users t
 WELCOME TO BEEHIVE LABS
 	
      ^^      .-=-=-=-.  ^^
+     
  ^^        (`-=-=-=-=-`)         ^^
+ 
          (`-=-=-=-=-=-=-`)  ^^         ^^
+	 
    ^^   (`-=-=-=-=-=-=-=-`)   ^^   ^^
-       ( `-=-=-=-(@)-=-=-` )      ^^  ^^            
+   
+       ( `-=-=-=-(@)-=-=-` )      ^^  ^^ 
+       
        (`-=-=-=-=-=-=-=-=-`)  ^^
+       
         (`-=-=-=-=-=-=-=-`)          ^^
+	
          (`-=-=-=-=-=-=-`)  ^^   
+	 
            (`-=-=-=-=-`)
            
 Features as of BH version 0.0.1:
