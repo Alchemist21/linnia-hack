@@ -24,6 +24,11 @@ const styles = (theme) => ({
     [theme.breakpoints.down('sm')]: {
       flex: 1,
     },
+    backgroundImage: "url('https://www.xmple.com/wallpaper/beehive-black-orange-hexagon-drop-shadow-1920x1080-c2-000000-ffa500-l4-26-302-60-27-a2-40-45-f-7.svg')",
+    color: 'white',
+  },
+  logo: {
+    width: '100px',
   },
 });
 
@@ -38,9 +43,10 @@ class Header extends Component {
     return (
       <AppBar position='sticky' color='primary'>
         <Toolbar className={classes.tabs}>
+          <img className='logo' src='https://cdn2.iconfinder.com/data/icons/hiking-2/128/Hiking_-75-512.png' />
           <Tab
-            label={<Logo style={{ height, width }} />}
-            onClick={this.navigateTo('/')}
+            label='Report'
+            onClick={this.navigateTo('/report')}
             classes={{
               root: `${classes.tab}`,
               labelContainer: classes.tabLabelContainer,

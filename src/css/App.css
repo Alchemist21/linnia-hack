@@ -25,3 +25,8 @@ code {
   top: 0;
   left: 0;
 }
+
+.logo {
+  width: 100px;
+  height: 100px;
+}

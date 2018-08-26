@@ -13,6 +13,7 @@ import Header from './Header';
 import GetRecord from './../containers/GetRecordContainer';
 import Search from './../containers/SearchContainer';
 import Permission from './../containers/PermissionsContainer';
+import Report from './Report';
 
 const history = createHistory({
   basename: '',
@@ -35,6 +36,7 @@ class App extends Component {
 
     return (
       <div>
+        <Header history={history} />
         <Router history={history}>
           <main className={classes.main}>
             <Switch>
@@ -43,6 +45,12 @@ class App extends Component {
                 path='/get_record'
                 authError={authError}
                 component={GetRecord}
+              />
+              <ProtectedRoute
+                isAuthenticated={isAuthenticated}
+                path='/report'
+                authError={authError}
+                component={Report}
               />
               <ProtectedRoute
                 isAuthenticated={isAuthenticated}
