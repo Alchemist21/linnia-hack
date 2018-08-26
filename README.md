@@ -1,23 +1,12 @@
-<<<<<<< HEAD
-# Linnia Hackathon: Beehive Labs Diabetes Reporter
-Lotay, Emmanuel, Jessica, Omar, Louell
-=======
 <img src="./src/beehive.png" width="400" height="400" />
->>>>>>> documentation
 
 <!--# Beehive Labs-->
 
-<<<<<<< HEAD
-Mission Question/Problem Solving:
-  How might we improve REPORTING OF DIABETES M. TYPE 2 (HBAIC) for PATIENTS so that
-
-=======
 ## Contributors
 
 
 <!-- # linnia_hack -->
 Lotay, Emmanuel, Jessica, Omar, Louell
->>>>>>> documentation
 
 
 ## Mission Question/Problem Solving:
@@ -28,29 +17,29 @@ Beehive Labs is an application which uses blockchain technology to allow users t
 
 ## Features
 WELCOME TO BEEHIVE LABS
-	
+
              .-=-=-=-.  ^^
-     
+
            (`-=-=-=-=-`)         ^^
- 
+
          (`-=-=-=-=-=-=-`)  ^^         ^^
-	 
+
         (`-=-=-=-=-=-=-=-`)   ^^   ^^
-   
-       ( `-=-=-=-(@)-=-=-` )      ^^  ^^ 
-       
+
+       ( `-=-=-=-(@)-=-=-` )      ^^  ^^
+
        (`-=-=-=-=-=-=-=-=-`)  ^^
-       
+
         (`-=-=-=-=-=-=-=-`)          ^^
-	
+
          (`-=-=-=-=-=-=-`)  ^^   
-	 
+
            (`-=-=-=-=-`)
-           
+
 Features as of BH version 0.0.1:
   1) Secure, Self-Owned Information Storage on the Blockchain
   2) Smooth Interface
-  3) Account H1AC tracking
+  3) Account HBA1C tracking
   4) Account Registration
   5) And More...!
 
@@ -58,20 +47,17 @@ Features as of BH version 0.0.1:
 [Basic Info](https://www.webmd.com/diabetes/type-2-diabetes#1)  
 [HBA1C and Diabetes](https://www.webmd.com/diabetes/guide/glycated-hemoglobin-test-hba1c)  
 
-<<<<<<< HEAD
-Jessica
-=======
 ## General Tech Implemented
 
 Front End:
   1) React / Redox
   2) Atom
-  
+
 Back End:
-  1) Ganache 
-  2) Linnia 
+  1) Ganache
+  2) Linnia
   3) Node / NPM
-  4) Custom RPC Blockchain 
+  4) Custom RPC Blockchain
 
 ## LINNIA ##
 Linnia Protocol is used in the following features:
@@ -79,4 +65,3 @@ Linnia Protocol is used in the following features:
 	B)
 	C)
 	D)
->>>>>>> documentation
