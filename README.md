@@ -47,21 +47,20 @@ Features as of BH version 0.0.1:
 [Basic Info](https://www.webmd.com/diabetes/type-2-diabetes#1)  
 [HBA1C and Diabetes](https://www.webmd.com/diabetes/guide/glycated-hemoglobin-test-hba1c)  
 
-## General Tech Implemented
+## Technologies Employed
 
-Front End:
-  1) React / Redox
-  2) Atom
+### Front End:
+  * React / Redux
+  * Atom
 
-Back End:
-  1) Ganache
-  2) Linnia
-  3) Node / NPM
-  4) Custom RPC Blockchain
+### Back End:
+  * Ganache
+  * Linnia
+  * Node / NPM
+  * Custom RPC Blockchain
 
 ## LINNIA ##
 Linnia Protocol is used in the following features:
-	A)
-	B)
-	C)
-	D)
+* Blockchain
+* Decentralized
+* Buzzword
