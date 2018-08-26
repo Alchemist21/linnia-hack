@@ -47,13 +47,13 @@ Features as of BH version 0.0.1:
 [Basic Info](https://www.webmd.com/diabetes/type-2-diabetes#1)  
 [HBA1C and Diabetes](https://www.webmd.com/diabetes/guide/glycated-hemoglobin-test-hba1c)  
 
-## Technologies Employed
+## Technologies Employed:
 
-### Front End:
+   ### Front End:
   * React / Redux
   * Atom
 
-### Back End:
+   ### Back End:
   * Ganache
   * Linnia
   * Node / NPM
@@ -61,6 +61,10 @@ Features as of BH version 0.0.1:
 
 ## LINNIA ##
 Linnia Protocol is used in the following features:
-* Blockchain
-* Decentralized
-* Buzzword
+* Blockchain Held
+* Decentralized Data
+  By providing an easy to use protocol we are able to store our chain of diabetic data onto the blockchain AND make it      readily available information upon request. Linnia makes data ownable and sellable,which is why Linnia is a vector for our diabetic database.
+Linnia Protocol will be used in the future features:
+* Coin Incentivization 
+* Local Data visualization
+* Company mass request support (ie: NIH needs data, so a bid is placed for all account holders whom may sell at convinience)
