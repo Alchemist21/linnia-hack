@@ -43,7 +43,7 @@ class Header extends Component {
     return (
       <AppBar position='sticky' color='primary'>
         <Toolbar className={classes.tabs}>
-          <img className='logo' src='https://cdn2.iconfinder.com/data/icons/hiking-2/128/Hiking_-75-512.png' />
+          <img className='logo' src='https://cdn2.iconfinder.com/data/icons/hiking-2/128/Hiking_-75-512.png'  onClick={this.navigateTo('/Home')}/>
           <Tab
             label='Report'
             onClick={this.navigateTo('/report')}
