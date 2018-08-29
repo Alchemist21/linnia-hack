@@ -4,7 +4,7 @@ import { withStyles } from '@material-ui/core/styles';
 
 const styles = (theme) => ({
   text: {
-    maxWidth: '50%',
+    maxWidth: '95%',
     marginTop: theme.spacing.unit * 3,
   },
 });
@@ -16,36 +16,42 @@ class Home extends Component {
     return (
       <div>
         <Typography variant='display2' className={classes.text}>
-          Welcome to Beehive Labs Diabetes Reporter
+        Beehive Labs
         </Typography>
         <Typography variant='title' className={classes.text}>
-          POWERED BY LINNIA
+          The Future of Health Data Recording
         </Typography>
         <Typography variant='body1' className={classes.text}>
-          Time to start building the decentralized future of diabetes reporting.
+          Your Data. Your Choice
         </Typography>
         <Typography variant='title' className={classes.text}>
-          Linnia as a decentralized backend
+          My Diabetes Doctor
         </Typography>
         <Typography variant='body1' className={classes.text}>
-          Linnia is a decentralized data storage and sharing protocol. With Linnia, you can quickly build
-          apps that give user's agency over their own data.
+         Diabetes Mellitus Type 2 is a chronic life long disease which affects the
+         body's ability to utilize glucose. And due to the chronicity of this disease
+         the personal and financial considerations are enormous.
         </Typography>
         <Typography variant='title' className={classes.text}>
-          Metamask Authentication
+          Epidemiology
         </Typography>
         <Typography variant='body1' className={classes.text}>
-          This particular box comes with autentication via Metamask. You need it to use this app.
-          You can learn more about it and download it <a href='https://metamask.io/'>here</a>.
+        The World Health Organization estimates that in 2015, 1.6 million deaths were caused
+        directly by Diabetes. Another 2.2 million deaths were attributable to high blood glucose in 2012.
+        It is a major cause of blindness, kidney failure, heart attacks, stroke
+        and lower limb amputation.
+          <a href=' http://www.who.int/en/news-room/fact-sheets/detail/diabetes   '> Click here </a>.
         </Typography>
         <Typography variant='title' className={classes.text}>
-          Styled with Material-UI
+          BLOCKCHAIN SOLUTIONS
         </Typography>
         <Typography variant='body1' className={classes.text}>
-          The Linnia team highly recommends building out applications using the MaterialUI CSS
-          framework. This starter kit incorporates the React version. You can read more about it
-          and see the docs <a href='https://material-ui.com/'>here</a>.You can quickly re-style
-          the application by replacing the theme in the starter kits index with your own!
+          The Centers for Disease Control in 2017 identified 30.2 million people with unidagnosed Diabetes
+          in the United States alone. Reports are even staggering for countries with no system for
+          proper Health Data Recording. Today, with a decentralized application, we can now fill the gaps
+          where other systems have failed. Let us help you in taking your data back to your hands. For more information
+           <a href=' https://www.linkedin.com/in/louell-s-74745a37/detail/recent-activity/shares/  '> Click here </a>.
+
         </Typography>
       </div>
     );
